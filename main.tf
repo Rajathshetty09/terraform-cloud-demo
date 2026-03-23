@@ -31,7 +31,7 @@ resource "aws_instance" "test-ec2" {
 
 
 
-ami = data.aws_ami.myami.id
+ami = "ami-02dfbd4ff395f2a1b"
 
 
 
