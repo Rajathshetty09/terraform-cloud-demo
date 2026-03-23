@@ -39,7 +39,7 @@ instance_type = "t3.micro"
 
   tags = {
 
-    Name = "Instance-test"
+    Name = "Instance-terraform"
 
   }
 
