@@ -12,7 +12,7 @@ provider "aws" {
 }
 
 resource "aws_s3_bucket" "my_bucket" {
-  bucket = "rajath-demo-bucket-92345"
+  bucket = "rajath-demmoo-bucket-9299345"
 
   tags = {
     Name        = "Demo Bucket"
